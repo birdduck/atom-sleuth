@@ -1,0 +1,19 @@
+{
+  "name": "atom-sleuth",
+  "main": "./lib/atom-sleuth",
+  "version": "1.0.0",
+  "description": "Heuristically set buffer options.",
+  "keywords": [
+    "vim",
+    "sleuth",
+    "indent"
+  ],
+  "repository": "https://github.com/atom/atom-sleuth",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+
+  }
+}
